@@ -1,0 +1,115 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container { 
+  height: 1000px;
+  background-color: rgba(34, 147, 98, 0.473);
+  width: auto;
+} 
+
+.resim1{
+  height: 250px;
+  border-style:dotted;
+margin-left: 100px;
+margin-top: 2.5cm;
+border: auto;
+
+}
+.cardtitle{
+  margin-left: 150px;
+
+}
+.cardtext{
+margin-left: 100px;
+
+}
+
+.btn {
+margin-left: 100px;
+
+
+
+}
+
+
+    
+    
+    
+    
+   
+      
+
+
+
+
+
+
+
+/* #header {
+ width: 100px;
+ height: 100px;
+ background-color: red;
+}
+
+#content {
+ width: 500px;
+ height: 150px;
+ background-color: green;
+}
+ div {
+
+overflow: auto;
+
+
+} 
+
+*/
+.filmbox{
+  float: left;
+  padding-right: 2cm;
+  padding-top: 2cm;
+  padding-left: 3cm;
+} 
+.site{ 
+  height: 5000px;
+  background-color: rgba(34, 147, 98, 0.473);
+  width: auto;
+} 
+
+.resim{
+
+  max-width: 170%;
+  width: 200px;
+  height: 300px;
+
+
+}
+.card-title{
+  margin-left: 55px;
+
+}
+.searchbutton{
+float: right;
+
+
+}
+.img404{
+width: 300px;
+
+
+
+}
+
+
+
